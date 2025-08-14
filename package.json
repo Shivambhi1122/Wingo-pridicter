@@ -1,0 +1,11 @@
+{
+  "name": "wingo-predictor",
+  "version": "1.0.0",
+  "main": "fetch.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "scripts": {
+    "start": "node fetch.js"
+  }
+}
